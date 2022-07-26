@@ -1,0 +1,7 @@
+.card_Breed {
+  border-radius: 5px 5px 0px 0px;
+  background-color: var(--primary);
+  overflow: hidden;
+  object-fit: cover;
+  object-position: 50% 55%;
+}
