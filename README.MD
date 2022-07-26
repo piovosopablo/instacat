@@ -1,8 +1,18 @@
 # 😻 Instacat
 
-Instacat es una web app que hace uso de la API [The API Cat](https://thecatapi.com/) para que tengas las imágenes de los gatos más bonitos del mundo.
+Instacat es una web app que hace uso de la API The API Cat para que tengas las imágenes de los gatos más bonitos del mundo, compuesta por Home, Search y Favorites.
 
-Puedes guardar tus favoritos, ver la raza del día y votar por los gatos que son tendencia.
+Home: genera imágenes aleatorias y asombrosas de gatos, además de una tarjeta con la raza del día, acompañada de una breve descripción y otros datos de la raza.
+
+Search: está compuesto de un buscador que contiene diferentes filtros para buscar imágenes de gatos.
+
+Favorites: almacena las fotos marcadas como favoritas en el Home.
+
+El Home, que contiene un Header (el cual se repite en cada página de la App), tiene los enlaces a esas otras dos páginas (Search & favorites).
+
+Los componentes además del Header, son: la foto del día (Cat of the day), la raza del día (Breed of the day), el buscador en Search, el almacenamiento de las imágenes favoritas en Favorites.
+
+El esbozo inicial o wireframe se encuentra en /public/Wireframe OhmyCat-Instacat App.pdf
 
 # 🎲 Tecnologías
 

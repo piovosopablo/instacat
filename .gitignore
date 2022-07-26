@@ -184,3 +184,5 @@ sketch
 dist/
 
 # End of https://www.toptal.com/developers/gitignore/api/node,visualstudiocode,macos,react
+# Local Netlify folder
+.netlify
